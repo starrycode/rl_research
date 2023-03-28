@@ -1,4 +1,4 @@
-# rl_research
+# Research - Reinforcement Learning
 
 ## Reinforcement Learning Project: Gamifying Compiler and Code Generator Transformations
 
